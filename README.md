@@ -1,2 +1,2 @@
 # expert-umbrella
-I'm here to to explore and learn.
+This is a python facial recognition project that integrates with xampp. It feeds data to an attendance table.
